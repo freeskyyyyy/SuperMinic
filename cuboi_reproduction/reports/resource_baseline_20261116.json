@@ -1,0 +1,16 @@
+{
+  "timestamp_utc": "2026-11-16T07:37:56.170975+00:00",
+  "scope": "current occupancy only, not representative course peak or concurrency acceptance",
+  "host": "spark-ab42",
+  "architecture": "aarch64",
+  "logical_cpus": 20,
+  "memory": {
+    "MemTotal_bytes": 130669199360,
+    "MemAvailable_bytes": 123005538304,
+    "SwapTotal_bytes": 0
+  },
+  "disk": "文件系统              1B的块          已用          可用 已用% 挂载点\n/dev/nvme0n1p2 4031871553536 1884880601088 1942150103040   50% /",
+  "gpu": "Mon Nov 16 15:37:56 2026       \n+-----------------------------------------------------------------------------------------+\n| NVIDIA-SMI 580.82.09              Driver Version: 580.82.09      CUDA Version: 13.0     |\n+-----------------------------------------+------------------------+----------------------+\n| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |\n| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |\n|                                         |                        |               MIG M. |\n|=========================================+========================+======================|\n|   0  NVIDIA GB10                    Off |   0000000F:01:00.0  On |                  N/A |\n| N/A   47C    P0             10W /  N/A  | Not Supported          |      0%      Default |\n|                                         |                        |                  N/A |\n+-----------------------------------------+------------------------+----------------------+\n\n+-----------------------------------------------------------------------------------------+\n| Processes:                                                                              |\n|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |\n|        ID   ID                                                               Usage      |\n|=========================================================================================|\n|    0   N/A  N/A            4763      G   /usr/lib/xorg/Xorg                       94MiB |\n|    0   N/A  N/A            4835    C+G   ...c/gnome-remote-desktop-daemon        176MiB |\n|    0   N/A  N/A            4902      G   /usr/bin/gnome-shell                    154MiB |\n|    0   N/A  N/A            7509      G   /usr/lib/firefox/firefox                228MiB |\n+-----------------------------------------------------------------------------------------+",
+  "containers": "robot_g1|course3-g1:jupyter-v4|Up 6 hours",
+  "container_usage": "robot_g1|0.33%|286.3MiB / 121.7GiB"
+}

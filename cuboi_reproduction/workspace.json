@@ -1,0 +1,19 @@
+{
+  "baseline": "CuboiLeo/SuperMimic-Reproduced",
+  "repository_url": "https://github.com/CuboiLeo/SuperMimic-Reproduced.git",
+  "source_relative_path": "src/SuperMimic-Reproduced",
+  "release_tag": "e8-boneseed-100k",
+  "commit": "ba6105349069bf040f1fdad60873d13138d505a2",
+  "working_branch": "reproduction-baseline",
+  "spark_root": "/home/nvidia/research/supermimic-cuboi",
+  "checkpoint": {
+    "path": "checkpoints/upstream/e8-boneseed-100k/e8_boneseed_ckpt_0100000.pt",
+    "bytes": 223470223,
+    "sha256": "0527bab674556f48eaa7d3a27d650d1d14986019fc982d8acecbf6da75bc5ea6",
+    "url": "https://github.com/CuboiLeo/SuperMimic-Reproduced/releases/download/e8-boneseed-100k/e8_boneseed_ckpt_0100000.pt",
+    "iteration": 100000,
+    "role": "upstream pretrained checkpoint, never overwrite with local training"
+  },
+  "mjlab_commit": "8bb2bc9e187797689ec82c78c35019afd2fd0376",
+  "status": "ARM64 environment and policy playback verified; full BONES 129491-clip e8 evaluation completed 2026-11-18; full training and velocity interface pending"
+}

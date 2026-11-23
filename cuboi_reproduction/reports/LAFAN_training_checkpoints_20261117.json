@@ -1,0 +1,60 @@
+{
+  "runs": [
+    {
+      "run": "lafan4_env256_batch256_seed42_1h_01",
+      "iteration": 14150,
+      "num_updates": 5644,
+      "models_finite": {
+        "wm": true,
+        "policy": true,
+        "critic": true
+      },
+      "checkpoint_bytes": 215366819
+    },
+    {
+      "run": "lafan4_env256_batch256_seed42_plus5h_01",
+      "iteration": 79500,
+      "num_updates": 31768,
+      "models_finite": {
+        "wm": true,
+        "policy": true,
+        "critic": true
+      },
+      "checkpoint_bytes": 215367395
+    }
+  ],
+  "matching_training_sections": {
+    "data": true,
+    "env": true,
+    "world_model": true,
+    "wm_trainer": true,
+    "policy": true,
+    "critic": true,
+    "policy_trainer": true,
+    "seed": true,
+    "device": true
+  },
+  "schedule_1h": {
+    "total_iterations": 320000,
+    "updates_per_env_step": 0.4,
+    "policy_updates_per_wm_update": 1,
+    "warmup_iterations": 40,
+    "lr_final_ratio": 0.03,
+    "lr_decay_fraction": 0.78125,
+    "log_interval": 50,
+    "checkpoint_interval": 3000,
+    "max_hours": 1.0
+  },
+  "schedule_plus5h": {
+    "total_iterations": 320000,
+    "updates_per_env_step": 0.4,
+    "policy_updates_per_wm_update": 1,
+    "warmup_iterations": 40,
+    "lr_final_ratio": 0.03,
+    "lr_decay_fraction": 0.78125,
+    "log_interval": 50,
+    "checkpoint_interval": 3000,
+    "max_hours": 5.0
+  },
+  "plus5h_resume": "/workspace/runs/lafan4_env256_batch256_seed42_1h_01/ckpt_latest.pt"
+}

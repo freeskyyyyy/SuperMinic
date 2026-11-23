@@ -1,0 +1,24 @@
+{
+  "python": "3.12.16",
+  "architecture": "aarch64",
+  "torch": "2.14.1+cu130",
+  "cuda_build": "13.0",
+  "cuda_device": "NVIDIA GB10",
+  "compute_capability": [
+    12,
+    1
+  ],
+  "cuda_forward_backward": true,
+  "warp": "1.18.0",
+  "warp_kernel": true,
+  "mujoco": "3.16.0",
+  "g1_nq": 36,
+  "g1_nv": 35,
+  "egl_vendor": "NVIDIA Corporation",
+  "egl_renderer": "NVIDIA Tegra NVIDIA GB10/PCIe",
+  "render_shape": [
+    120,
+    160,
+    3
+  ]
+}

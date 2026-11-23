@@ -1,0 +1,264 @@
+{
+  "selected": 32,
+  "converted": 32,
+  "kept": 32,
+  "removed": [],
+  "checks": [
+    {
+      "name": "Stance_Change_Right_002__A018",
+      "frames": 3873,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "crawl_ff_loop_180_R_001__A214",
+      "frames": 531,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "crawl_ff_loop_180_R_004__A217",
+      "frames": 854,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "crawl_ff_stop_360_001__A133_M",
+      "frames": 387,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "crouch_turn_360_R_002__A244",
+      "frames": 280,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "dance_hiphop_march_step_R_002__A314_M",
+      "frames": 303,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "dance_hiphop_roof_top_slides_side_R_fast_003__A318_M",
+      "frames": 269,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "dance_peace_out_002__A467",
+      "frames": 220,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "dance_retro_disco_finger_hips_R_001__A306_M",
+      "frames": 283,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "fixing_something_002__A261",
+      "frames": 239,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "flip_180_R_003__A304",
+      "frames": 294,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "flip_360_002__A305",
+      "frames": 378,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "flip_360_002__A305_M",
+      "frames": 378,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "flip_360_hero_landing_002__A304",
+      "frames": 287,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "injured_torso_jump_ff_360_R_002__A229",
+      "frames": 114,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "jog_ff_loop_270_005__A071_M",
+      "frames": 110,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "jog_ff_start_180_R_003__A174",
+      "frames": 183,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "jog_ff_start_180_R_003__A330_M",
+      "frames": 200,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "jog_sideway_045_stop_004__A033",
+      "frames": 167,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "jump_ff_270_R_003__A328_M",
+      "frames": 97,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "jump_ff_360_001__A213",
+      "frames": 94,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "kneeling_stop_001__A022",
+      "frames": 151,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "mohak_turn_090_003__A033",
+      "frames": 217,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "push_up_stop_003__A360_M",
+      "frames": 244,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "reach_jump_R_003__A147_M",
+      "frames": 253,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "tarzan_003__A097",
+      "frames": 216,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "turn_lift_crate_walk_270_004__A203",
+      "frames": 512,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "turn_run_360_R_002__A335",
+      "frames": 137,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "walk_fast_forward_injured_torso_003__A417",
+      "frames": 997,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "walk_ff_loop_225_002__A094_M",
+      "frames": 202,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "walk_ff_start_360_R_fast_001__A447",
+      "frames": 221,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    },
+    {
+      "name": "walk_the_dog_ff_270_pull_back_leash_R_002__A493",
+      "frames": 310,
+      "fps": 50.0,
+      "input_fps": 120.0,
+      "joints": 29,
+      "finite": true
+    }
+  ]
+}

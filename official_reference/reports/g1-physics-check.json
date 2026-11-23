@@ -1,0 +1,12 @@
+{
+  "num_envs": 64,
+  "control_steps": 1000,
+  "explicit_resets": 11,
+  "elapsed_seconds_including_kernel_warmup": 45.64968899602536,
+  "num_actions": 29,
+  "converted_frames": 11891,
+  "control_dt": 0.02,
+  "physics_step_reset_finite_check": "passed",
+  "policy": "zero action; not a trained policy",
+  "visual_review": "pending"
+}

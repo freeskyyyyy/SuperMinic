@@ -1,0 +1,12 @@
+{
+  "iterations": 31,
+  "num_envs": 64,
+  "elapsed_seconds_including_compilation": 257.19128248799825,
+  "parameter_updates": {
+    "actor": true,
+    "world_model": true,
+    "critic": true
+  },
+  "finite_parameters": true,
+  "scope": "engineering smoke test, not tracking convergence"
+}

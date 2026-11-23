@@ -1,0 +1,8 @@
+{
+  "package": "nvidia-cusparselt-cu13==0.8.1",
+  "original_tag": "Tag: py3-none-manylinux2014_sbsa",
+  "corrected_tag": "Tag: py3-none-manylinux2014_aarch64",
+  "elf_machine": 183,
+  "binary_modified": false,
+  "scope": "installed WHEEL metadata and its RECORD entry only; original downloaded wheel retained"
+}

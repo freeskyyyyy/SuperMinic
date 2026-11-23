@@ -1,0 +1,12 @@
+{
+  "torch": "2.15.0+cu132",
+  "torch_cuda": "13.2",
+  "device": "NVIDIA GB10",
+  "capability": [
+    12,
+    1
+  ],
+  "warp": "1.19.0",
+  "torch_forward_backward": "passed",
+  "warp_kernel": "passed"
+}

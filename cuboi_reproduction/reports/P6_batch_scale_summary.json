@@ -1,0 +1,134 @@
+[
+  {
+    "envs": 256,
+    "batch_size": 128,
+    "iteration": 400,
+    "updates": 144,
+    "models": {
+      "world_model": {
+        "changed": true,
+        "all_finite": true,
+        "max_abs_parameter_change": 0.3575916290283203
+      },
+      "policy": {
+        "changed": true,
+        "all_finite": true,
+        "max_abs_parameter_change": 0.02180740237236023
+      },
+      "critic": {
+        "changed": true,
+        "all_finite": true,
+        "max_abs_parameter_change": 0.3935316503047943
+      }
+    },
+    "exit_code": 0,
+    "wall_seconds": 302.2526910069864,
+    "peak_container_GiB": 8.455978393554688,
+    "peak_RSS_GiB": 5.051136016845703,
+    "average_CPU_cores": 1.32018872576647,
+    "whole_GPU_peak_percent": 91,
+    "min_host_available_GiB": 106.06062698364258,
+    "last_200_iteration_windows": [
+      [
+        250,
+        3.6,
+        1.7,
+        3.8,
+        7.5
+      ],
+      [
+        300,
+        3.8,
+        1.9,
+        3.9,
+        7.3
+      ],
+      [
+        350,
+        3.6,
+        1.6,
+        4.0,
+        7.6
+      ],
+      [
+        400,
+        4.0,
+        2.1,
+        3.8,
+        6.4
+      ]
+    ],
+    "median_last4_it_per_s": 3.7,
+    "last4_mean_sim_wm_pi_s_per_50iterations": [
+      1.825,
+      3.875,
+      7.2
+    ]
+  },
+  {
+    "envs": 256,
+    "batch_size": 256,
+    "iteration": 350,
+    "updates": 124,
+    "models": {
+      "world_model": {
+        "changed": true,
+        "all_finite": true,
+        "max_abs_parameter_change": 0.35623636841773987
+      },
+      "policy": {
+        "changed": true,
+        "all_finite": true,
+        "max_abs_parameter_change": 0.018857480958104134
+      },
+      "critic": {
+        "changed": true,
+        "all_finite": true,
+        "max_abs_parameter_change": 0.34130147099494934
+      }
+    },
+    "exit_code": 0,
+    "wall_seconds": 306.7490131559316,
+    "peak_container_GiB": 10.592273712158203,
+    "peak_RSS_GiB": 5.2525177001953125,
+    "average_CPU_cores": 1.350742973016107,
+    "whole_GPU_peak_percent": 91,
+    "min_host_available_GiB": 105.19230270385742,
+    "last_200_iteration_windows": [
+      [
+        200,
+        3.8,
+        1.7,
+        3.9,
+        7.3
+      ],
+      [
+        250,
+        3.7,
+        1.5,
+        3.9,
+        7.2
+      ],
+      [
+        300,
+        3.9,
+        1.5,
+        3.9,
+        7.2
+      ],
+      [
+        350,
+        4.2,
+        1.4,
+        3.8,
+        6.1
+      ]
+    ],
+    "median_last4_it_per_s": 3.8499999999999996,
+    "last4_mean_sim_wm_pi_s_per_50iterations": [
+      1.525,
+      3.875,
+      6.95
+    ]
+  }
+]

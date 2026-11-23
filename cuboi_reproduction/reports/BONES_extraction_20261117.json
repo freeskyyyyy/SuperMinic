@@ -1,0 +1,10 @@
+{
+  "csv_count": 142220,
+  "expected": 142220,
+  "count_matches": true,
+  "examples": [
+    "data/raw/bones_seed/extracted/g1/csv/210531/jump_and_land_heavy_001__A001.csv",
+    "data/raw/bones_seed/extracted/g1/csv/210531/jump_and_land_heavy_001__A001_M.csv",
+    "data/raw/bones_seed/extracted/g1/csv/210531/jump_and_land_heavy_001__A002.csv"
+  ]
+}

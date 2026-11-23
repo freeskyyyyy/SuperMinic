@@ -1,0 +1,11 @@
+{
+  "frames": 5946,
+  "fps": 25,
+  "resolution": [
+    1280,
+    720
+  ],
+  "content": "kinematic reference playback, not trained policy",
+  "joint_name_order": "passed",
+  "offscreen_render": "passed"
+}

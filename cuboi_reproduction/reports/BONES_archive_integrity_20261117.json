@@ -1,0 +1,40 @@
+{
+  "bytes": 23499973647,
+  "revision": "2f59b2077b9da34dd4e43618e705c7cb962c9a66",
+  "expected_sha256_from_download_metadata": "52580ea8bced72ea9e2ff1e7b68f01c51c7f1099581e9a46b7c87e1dec106d8a",
+  "actual_sha256": "52580ea8bced72ea9e2ff1e7b68f01c51c7f1099581e9a46b7c87e1dec106d8a",
+  "sha256_matches": true,
+  "counts": {
+    "non_files": 126,
+    "files": 142220,
+    "csv": 142220
+  },
+  "uncompressed_file_bytes": 51527587825,
+  "gzip_crc_passed": true,
+  "unsafe_members": [],
+  "duplicate_csv_stems": [],
+  "csv_samples": [
+    {
+      "name": "g1/csv/230509/vertical_mountain_climber_R_003__A359_M.csv",
+      "first_lines": [
+        "Frame,root_translateX,root_translateY,root_translateZ,root_rotateX,root_rotateY,root_rotateZ,left_hip_pitch_joint_dof,left_hip_roll_joint_dof,left_hip_yaw_joint_dof,left_knee_joint_dof,left_ankle_pitch_joint_dof,left_ankle_roll_joint_dof,right_hip_pitch_joint_dof,right_hip_roll_joint_dof,right_hip_yaw_joint_dof,right_knee_joint_dof,right_ankle_pitch_joint_dof,right_ankle_roll_joint_dof,waist_yaw_joint_dof,waist_roll_joint_dof,waist_pitch_joint_dof,left_shoulder_pitch_joint_dof,left_shoulder_roll_joint_dof,left_shoulder_yaw_joint_dof,left_elbow_joint_dof,left_wrist_roll_joint_dof,left_wrist_pitch_joint_dof,left_wrist_yaw_joint_dof,right_shoulder_pitch_joint_dof,right_shoulder_roll_joint_dof,right_shoulder_yaw_joint_dof,right_elbow_joint_dof,right_wrist_roll_joint_dof,right_wrist_pitch_joint_dof,right_wrist_yaw_joint_dof",
+        "0,0.004380798898637295,2.7090461254119873,78.30951690673828,0.4014717047694013,-6.9936724890286035,-90.29408808856381,12.3931875,6.512568,17.109516,7.384747,-12.168877,-6.6619244,8.913237,-5.14236,2.852011,10.5132885,-12.321628,6.69628,-4.4050226,0.88121736,10.840711,3.4638543,12.597134,-34.48441,60.965412,6.153625,0.9626611,11.065044,0.5587247,-10.567681,30.336458,65.24689,-6.612978,-0.49596167,-14.41822"
+      ]
+    },
+    {
+      "name": "g1/csv/230509/warm_up_legs_R_002__A359_M.csv",
+      "first_lines": [
+        "Frame,root_translateX,root_translateY,root_translateZ,root_rotateX,root_rotateY,root_rotateZ,left_hip_pitch_joint_dof,left_hip_roll_joint_dof,left_hip_yaw_joint_dof,left_knee_joint_dof,left_ankle_pitch_joint_dof,left_ankle_roll_joint_dof,right_hip_pitch_joint_dof,right_hip_roll_joint_dof,right_hip_yaw_joint_dof,right_knee_joint_dof,right_ankle_pitch_joint_dof,right_ankle_roll_joint_dof,waist_yaw_joint_dof,waist_roll_joint_dof,waist_pitch_joint_dof,left_shoulder_pitch_joint_dof,left_shoulder_roll_joint_dof,left_shoulder_yaw_joint_dof,left_elbow_joint_dof,left_wrist_roll_joint_dof,left_wrist_pitch_joint_dof,left_wrist_yaw_joint_dof,right_shoulder_pitch_joint_dof,right_shoulder_roll_joint_dof,right_shoulder_yaw_joint_dof,right_elbow_joint_dof,right_wrist_roll_joint_dof,right_wrist_pitch_joint_dof,right_wrist_yaw_joint_dof",
+        "0,-1.0079962015151978,3.1706414222717285,78.13623809814453,-0.3799924603350648,-0.5615242073910057,-93.44399858782683,0.13894512,7.09386,16.610336,13.150446,-13.12723,-4.1161947,-5.3960304,0.19934906,5.878291,19.304697,-12.953523,2.4226265,-0.5101006,1.0464822,8.742611,0.18746985,13.539334,-30.207561,60.7446,5.5052915,1.7901139,10.796149,-0.9917447,-10.119969,24.876722,60.14409,-3.6529796,-0.42060474,-11.960903"
+      ]
+    },
+    {
+      "name": "g1/csv/230509/shadow_boxing_R_003__A361.csv",
+      "first_lines": [
+        "Frame,root_translateX,root_translateY,root_translateZ,root_rotateX,root_rotateY,root_rotateZ,left_hip_pitch_joint_dof,left_hip_roll_joint_dof,left_hip_yaw_joint_dof,left_knee_joint_dof,left_ankle_pitch_joint_dof,left_ankle_roll_joint_dof,right_hip_pitch_joint_dof,right_hip_roll_joint_dof,right_hip_yaw_joint_dof,right_knee_joint_dof,right_ankle_pitch_joint_dof,right_ankle_roll_joint_dof,waist_yaw_joint_dof,waist_roll_joint_dof,waist_pitch_joint_dof,left_shoulder_pitch_joint_dof,left_shoulder_roll_joint_dof,left_shoulder_yaw_joint_dof,left_elbow_joint_dof,left_wrist_roll_joint_dof,left_wrist_pitch_joint_dof,left_wrist_yaw_joint_dof,right_shoulder_pitch_joint_dof,right_shoulder_roll_joint_dof,right_shoulder_yaw_joint_dof,right_elbow_joint_dof,right_wrist_roll_joint_dof,right_wrist_pitch_joint_dof,right_wrist_yaw_joint_dof",
+        "0,-0.3134831190109253,2.612938642501831,77.04592895507812,1.9785992404080384,-11.398407246262693,-88.25865649139848,17.554941,4.8747177,1.1485106,6.905309,-12.115561,-11.523747,23.496758,-11.663392,-19.160803,7.0026603,-15.366568,11.714212,-0.81334376,1.4858217,17.27787,-5.9826236,13.398302,-53.59853,64.81646,-14.13646,3.1258535,2.883374,-6.7476897,-11.659982,46.502064,67.79067,2.3423176,6.3516273,-9.716438"
+      ]
+    }
+  ],
+  "wall_seconds": 169.78314630000386
+}

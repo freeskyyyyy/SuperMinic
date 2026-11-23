@@ -1,0 +1,304 @@
+{
+  "timestamp_utc": "2026-11-16T08:58:23.173830+00:00",
+  "command": [
+    "bash",
+    "/workspace/environment/validate_first_batch.sh"
+  ],
+  "exit_code": 0,
+  "wall_seconds": 49.058625752921216,
+  "child_peak_rss_bytes": 4204986368,
+  "sampled_peak_container_memory_bytes": 4320800768,
+  "sampled_min_host_available_bytes": 118748921856,
+  "sampled_peak_whole_gpu_util_percent": 40,
+  "notes": "1-second samples; GPU utilization and host memory include other work; cgroup/RSS are not complete GPU-memory accounting on unified memory",
+  "samples": [
+    {
+      "elapsed_seconds": 0.022715092985890806,
+      "container_memory_bytes": 224968704,
+      "host_available_bytes": 122869293056,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 1.0430200109258294,
+      "container_memory_bytes": 1310912512,
+      "host_available_bytes": 121758261248,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 2.063836788991466,
+      "container_memory_bytes": 1438289920,
+      "host_available_bytes": 121625485312,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 3.08482357498724,
+      "container_memory_bytes": 593330176,
+      "host_available_bytes": 122240536576,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 4.106250301934779,
+      "container_memory_bytes": 753307648,
+      "host_available_bytes": 122089570304,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 5.126943856012076,
+      "container_memory_bytes": 887271424,
+      "host_available_bytes": 121944326144,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 6.148793091997504,
+      "container_memory_bytes": 1765990400,
+      "host_available_bytes": 121076514816,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 7.171421226928942,
+      "container_memory_bytes": 2120359936,
+      "host_available_bytes": 120033943552,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 8.192115764017217,
+      "container_memory_bytes": 2459996160,
+      "host_available_bytes": 119890079744,
+      "whole_gpu_util_percent": 1
+    },
+    {
+      "elapsed_seconds": 9.212476406013593,
+      "container_memory_bytes": 2498252800,
+      "host_available_bytes": 119874109440,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 10.233606060035527,
+      "container_memory_bytes": 2513707008,
+      "host_available_bytes": 119859257344,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 11.25668497395236,
+      "container_memory_bytes": 2613002240,
+      "host_available_bytes": 119861534720,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 12.280214166035876,
+      "container_memory_bytes": 2636390400,
+      "host_available_bytes": 119858368512,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 13.302507148007862,
+      "container_memory_bytes": 2625355776,
+      "host_available_bytes": 119845474304,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 14.324189309030771,
+      "container_memory_bytes": 2626764800,
+      "host_available_bytes": 119874252800,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 15.346600497025065,
+      "container_memory_bytes": 2632507392,
+      "host_available_bytes": 119885434880,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 16.368892317987047,
+      "container_memory_bytes": 2635894784,
+      "host_available_bytes": 119899553792,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 17.39070993999485,
+      "container_memory_bytes": 2639687680,
+      "host_available_bytes": 119899926528,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 18.41164448694326,
+      "container_memory_bytes": 2641076224,
+      "host_available_bytes": 119917957120,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 19.43284769495949,
+      "container_memory_bytes": 2942169088,
+      "host_available_bytes": 119759683584,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 20.453724271967076,
+      "container_memory_bytes": 3206807552,
+      "host_available_bytes": 119502098432,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 21.47710413997993,
+      "container_memory_bytes": 3293741056,
+      "host_available_bytes": 119391105024,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 22.497693934012204,
+      "container_memory_bytes": 3308539904,
+      "host_available_bytes": 119418597376,
+      "whole_gpu_util_percent": 3
+    },
+    {
+      "elapsed_seconds": 23.520123068941757,
+      "container_memory_bytes": 3317374976,
+      "host_available_bytes": 119438630912,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 24.541964567033574,
+      "container_memory_bytes": 3334455296,
+      "host_available_bytes": 119463538688,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 25.564483172958717,
+      "container_memory_bytes": 3388530688,
+      "host_available_bytes": 119477440512,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 26.58773597399704,
+      "container_memory_bytes": 3392786432,
+      "host_available_bytes": 119460155392,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 27.61072619096376,
+      "container_memory_bytes": 3673645056,
+      "host_available_bytes": 119449972736,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 28.634425853029825,
+      "container_memory_bytes": 3504685056,
+      "host_available_bytes": 119429251072,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 29.65884238202125,
+      "container_memory_bytes": 3554435072,
+      "host_available_bytes": 119435681792,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 30.682267594966106,
+      "container_memory_bytes": 3583963136,
+      "host_available_bytes": 119472893952,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 31.705721470993012,
+      "container_memory_bytes": 3587096576,
+      "host_available_bytes": 119431036928,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 32.728511133929715,
+      "container_memory_bytes": 3593408512,
+      "host_available_bytes": 119454269440,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 33.75149925099686,
+      "container_memory_bytes": 3593592832,
+      "host_available_bytes": 119459966976,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 34.77550665102899,
+      "container_memory_bytes": 3595096064,
+      "host_available_bytes": 119473938432,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 35.79767910693772,
+      "container_memory_bytes": 3723681792,
+      "host_available_bytes": 119458496512,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 36.81945965194609,
+      "container_memory_bytes": 3970433024,
+      "host_available_bytes": 119104151552,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 37.84179605694953,
+      "container_memory_bytes": 4106055680,
+      "host_available_bytes": 118983602176,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 38.86331386503298,
+      "container_memory_bytes": 4106346496,
+      "host_available_bytes": 118979616768,
+      "whole_gpu_util_percent": 18
+    },
+    {
+      "elapsed_seconds": 39.885902747977525,
+      "container_memory_bytes": 4180082688,
+      "host_available_bytes": 118910836736,
+      "whole_gpu_util_percent": 40
+    },
+    {
+      "elapsed_seconds": 40.905781410983764,
+      "container_memory_bytes": 4320731136,
+      "host_available_bytes": 118748921856,
+      "whole_gpu_util_percent": 4
+    },
+    {
+      "elapsed_seconds": 41.92655049392488,
+      "container_memory_bytes": 4320800768,
+      "host_available_bytes": 118767591424,
+      "whole_gpu_util_percent": 13
+    },
+    {
+      "elapsed_seconds": 42.947056271950714,
+      "container_memory_bytes": 4115648512,
+      "host_available_bytes": 118973734912,
+      "whole_gpu_util_percent": 32
+    },
+    {
+      "elapsed_seconds": 43.96980954997707,
+      "container_memory_bytes": 4115263488,
+      "host_available_bytes": 118993989632,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 44.99072228302248,
+      "container_memory_bytes": 687575040,
+      "host_available_bytes": 122559664128,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 46.01288711396046,
+      "container_memory_bytes": 860561408,
+      "host_available_bytes": 122387841024,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 47.035408430034295,
+      "container_memory_bytes": 1012506624,
+      "host_available_bytes": 122218700800,
+      "whole_gpu_util_percent": 0
+    },
+    {
+      "elapsed_seconds": 48.057603882974945,
+      "container_memory_bytes": 1069551616,
+      "host_available_bytes": 122173480960,
+      "whole_gpu_util_percent": 0
+    }
+  ]
+}
